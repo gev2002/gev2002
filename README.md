@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @gev2002
 - 💻 I'm Web and Mobile Developer.
+- 📩 Gmail Account. gev.avet.02@gmail.com
