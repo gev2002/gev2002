@@ -19,7 +19,7 @@
 
 </p style="height:20px">
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gev2002&layout=compact&&theme=transparent&hide_border=true&card_width=400)](https://github.com/gev2002)![](https://github-stats-alpha.vercel.app/api?username=gev2002&cc=000&tc=fff&ic=fff&bc=000) 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gev2002&layout=compact&&theme=transparent&hide_border=true)](https://github.com/gev2002)![](https://github-stats-alpha.vercel.app/api?username=gev2002&cc=000&tc=fff&ic=fff&bc=000) 
 
 
  
