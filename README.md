@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Gevorg.
 - 💻 I'm Web and Mobile Developer.
 - 📩 Gmail Account. gev.avet.02@gmail.com
-
-
+- 💼 Feel free and watch my public portfolio part.![](https://gev2002.github.io/)
 
 
 <code><img src="https://img.shields.io/badge/javascript-%25.svg?style=for-the-badge&logo=javascript&color=black"></code>
@@ -20,6 +19,8 @@
 </p style="height:20px">
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gev2002&layout=compact&&theme=transparent&hide_border=true)](https://github.com/gev2002)![](https://github-stats-alpha.vercel.app/api?username=gev2002&cc=000&tc=fff&ic=fff&bc=000) 
+
+
 
 
  
