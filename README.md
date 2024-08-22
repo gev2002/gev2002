@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gevorg.
 - 💻 I'm Web and Mobile Developer.
 - 📩 Gmail Account. gev.avet.02@gmail.com
-- 💼 Feel free and watch my public portfolio part.[gev2002](https://gev2002.github.io/)
+- 💼 Feel free and watch my public portfolio part. [gev2002](https://gev2002.github.io/)
 
 
 <code><img src="https://img.shields.io/badge/javascript-%25.svg?style=for-the-badge&logo=javascript&color=black"></code>
